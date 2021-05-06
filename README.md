@@ -1,4 +1,6 @@
-### Hi there 👋
+###  ✌️สู้ๆ แก่ละปลงบ้างเหอะ 555😬 
+ลองไปหาที่เงียบๆอยู่คนเดียวสงบๆ ในป่าอะ  
+เข้าป่าไปเลย 🤪
 
 <!--
 **Libertywalk-Lunalight/Libertywalk-Lunalight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
